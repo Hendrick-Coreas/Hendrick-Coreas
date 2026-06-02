@@ -6,8 +6,8 @@
     <li style="margin-bottom: 12px;">🌱 Soy estudiante de <strong>Desarrollo de software</strong>.</li>
     <li style="margin-bottom: 12px;">🎮 Me interesa aprender <strong>codificación de videojuegos</strong>.</li>
     <li style="margin-bottom: 12px;">📚 Actualmente estoy aprendiendo <strong>Programación orientada a objetos</strong> y solo eso.</li>
-    <li style="margin-bottom: 12px;">📫 No dudes en contactarme: <a href="mailto:nishantjangid6377@gmail.com" style="color: #58a6ff; text-decoration: none;">nishantjangid6377@gmail.com</a></li>
-    <li style="margin-bottom: 12px;">👋 ¡No dudes en enviarme un mensaje en Discord – mi nombre de usuario es <a href="#" style="color: #58a6ff; text-decoration: none;">1010nishant</a>!</li>
+    <li style="margin-bottom: 12px;">📫 No dudes en contactarme: <a href="mailto:hendrickcoreas@gmail.com" style="color: #58a6ff; text-decoration: none;">nishantjangid6377@gmail.com</a></li>
+    <li style="margin-bottom: 12px;">👋 ¡No dudes en enviarme un mensaje en Discord – mi nombre de usuario es <a href="#" style="color: #58a6ff; text-decoration: none;">Hendyto_38</a>!</li>
   </ul>
 
   <hr style="border: 0; height: 1px; background-color: #30363d; margin: 35px 0;">
