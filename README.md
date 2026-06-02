@@ -3,52 +3,52 @@
   <h1 style="text-align: center; color: #ffffff; margin-bottom: 30px;">La confusión es parte de la programación.</h1>
 
   <ul style="list-style-type: none; padding: 0; font-size: 16px;">
-    <li style="margin-bottom: 10px;">🌱 Soy estudiante de <strong>Desarrollo de software</strong>.</li>
-    <li style="margin-bottom: 10px;">🎮 Me interesa aprender <strong>codificación de videojuegos</strong>.</li>
-    <li style="margin-bottom: 10px;">📚 Actualmente estoy aprendiendo <strong>Programación Orientada a Objetos</strong> y solo eso.</li>
-    <li style="margin-bottom: 10px;">📫 No dudes en contactarme: <a href="mailto:nishantjangid6377@gmail.com" style="color: #58a6ff; text-decoration: none;">nishantjangid6377@gmail.com</a></li>
-    <li style="margin-bottom: 10px;">👋 ¡No dudes en enviarme un mensaje en Discord – mi nombre de usuario es <a href="#" style="color: #58a6ff; text-decoration: none;">1010nishant</a>!</li>
+    <li style="margin-bottom: 12px;">🌱 Soy estudiante de <strong>Desarrollo de software</strong>.</li>
+    <li style="margin-bottom: 12px;">🎮 Me interesa aprender <strong>codificación de videojuegos</strong>.</li>
+    <li style="margin-bottom: 12px;">📚 Actualmente estoy aprendiendo <strong>Programación orientada a objetos</strong> y solo eso.</li>
+    <li style="margin-bottom: 12px;">📫 No dudes en contactarme: <a href="mailto:nishantjangid6377@gmail.com" style="color: #58a6ff; text-decoration: none;">nishantjangid6377@gmail.com</a></li>
+    <li style="margin-bottom: 12px;">👋 ¡No dudes en enviarme un mensaje en Discord – mi nombre de usuario es <a href="#" style="color: #58a6ff; text-decoration: none;">1010nishant</a>!</li>
   </ul>
 
-  <hr style="border: 0; height: 1px; background-color: #30363d; margin: 40px 0;">
+  <hr style="border: 0; height: 1px; background-color: #30363d; margin: 35px 0;">
 
-  <h2 style="color: #ffffff; margin-bottom: 20px;">Most Used Languages</h2>
-  <div style="background-color: #161b22; padding: 25px; border-radius: 8px; border: 1px solid #30363d; max-width: 400px;">
+  <h2 style="color: #ffffff; margin-bottom: 20px;">Nivel de Conocimiento</h2>
+  <div style="background-color: #161b22; padding: 25px; border-radius: 8px; border: 1px solid #30363d; max-width: 500px; margin-bottom: 35px;">
     
-    <div style="margin-bottom: 15px;">
-      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 5px;">
+    <div style="margin-bottom: 18px;">
+      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 6px;">
         <span>Photoshop</span>
-        <span>50%</span>
+        <span style="color: #31A8FF;">50%</span>
       </div>
       <div style="width: 100%; background-color: #30363d; border-radius: 5px; height: 10px;">
         <div style="width: 50%; background-color: #31A8FF; height: 100%; border-radius: 5px;"></div>
       </div>
     </div>
 
-    <div style="margin-bottom: 15px;">
-      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 5px;">
+    <div style="margin-bottom: 18px;">
+      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 6px;">
         <span>Python</span>
-        <span>33%</span>
+        <span style="color: #3572A5;">33%</span>
       </div>
       <div style="width: 100%; background-color: #30363d; border-radius: 5px; height: 10px;">
         <div style="width: 33%; background-color: #3572A5; height: 100%; border-radius: 5px;"></div>
       </div>
     </div>
 
-    <div style="margin-bottom: 15px;">
-      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 5px;">
+    <div style="margin-bottom: 18px;">
+      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 6px;">
         <span>HTML</span>
-        <span>30%</span>
+        <span style="color: #e34c26;">30%</span>
       </div>
       <div style="width: 100%; background-color: #30363d; border-radius: 5px; height: 10px;">
         <div style="width: 30%; background-color: #e34c26; height: 100%; border-radius: 5px;"></div>
       </div>
     </div>
 
-    <div style="margin-bottom: 15px;">
-      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 5px;">
+    <div style="margin-bottom: 6px;">
+      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 6px;">
         <span>C++</span>
-        <span>22%</span>
+        <span style="color: #f34b7d;">22%</span>
       </div>
       <div style="width: 100%; background-color: #30363d; border-radius: 5px; height: 10px;">
         <div style="width: 22%; background-color: #f34b7d; height: 100%; border-radius: 5px;"></div>
@@ -57,10 +57,10 @@
 
   </div>
 
-  <hr style="border: 0; height: 1px; background-color: #30363d; margin: 40px 0;">
+  <hr style="border: 0; height: 1px; background-color: #30363d; margin: 35px 0;">
 
-  <h2 style="color: #ffffff; margin-bottom: 20px;">Tecnologías que conozco 👨‍💻</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <h2 style="color: #ffffff; margin-bottom: 20px;">Tecnologías y Aplicaciones que conozco 👨‍💻</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
