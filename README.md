@@ -15,46 +15,6 @@
   <h2 style="color: #ffffff; margin-bottom: 20px;">Nivel de Conocimiento</h2>
   <div style="background-color: #161b22; padding: 25px; border-radius: 8px; border: 1px solid #30363d; max-width: 500px; margin-bottom: 35px;">
     
-    <div style="margin-bottom: 18px;">
-      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 6px;">
-        <span>Photoshop</span>
-        <span style="color: #31A8FF;">50%</span>
-      </div>
-      <div style="width: 100%; background-color: #30363d; border-radius: 5px; height: 10px;">
-        <div style="width: 50%; background-color: #31A8FF; height: 100%; border-radius: 5px;"></div>
-      </div>
-    </div>
-
-    <div style="margin-bottom: 18px;">
-      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 6px;">
-        <span>Python</span>
-        <span style="color: #3572A5;">33%</span>
-      </div>
-      <div style="width: 100%; background-color: #30363d; border-radius: 5px; height: 10px;">
-        <div style="width: 33%; background-color: #3572A5; height: 100%; border-radius: 5px;"></div>
-      </div>
-    </div>
-
-    <div style="margin-bottom: 18px;">
-      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 6px;">
-        <span>HTML</span>
-        <span style="color: #e34c26;">30%</span>
-      </div>
-      <div style="width: 100%; background-color: #30363d; border-radius: 5px; height: 10px;">
-        <div style="width: 30%; background-color: #e34c26; height: 100%; border-radius: 5px;"></div>
-      </div>
-    </div>
-
-    <div style="margin-bottom: 6px;">
-      <div style="display: flex; justify-content: space-between; font-size: 14px; font-weight: bold; margin-bottom: 6px;">
-        <span>C++</span>
-        <span style="color: #f34b7d;">22%</span>
-      </div>
-      <div style="width: 100%; background-color: #30363d; border-radius: 5px; height: 10px;">
-        <div style="width: 22%; background-color: #f34b7d; height: 100%; border-radius: 5px;"></div>
-      </div>
-    </div>
-
   </div>
 
   <hr style="border: 0; height: 1px; background-color: #30363d; margin: 35px 0;">
