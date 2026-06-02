@@ -17,13 +17,7 @@
     <li style="margin-bottom: 12px;">👋 ¡No dudes en enviarme un mensaje en Discord – mi nombre de usuario es <a href="#" style="color: #58a6ff; text-decoration: none;">Hendyto_38</a>!</li>
   </ul>
 
-  <hr style="border: 0; height: 1px; background-color: #30363d; margin: 35px 0;">
 
-  <h2 style="color: #ffffff; margin-bottom: 20px;">Nivel de Conocimiento</h2>
-  <div style="background-color: #161b22; padding: 25px; border-radius: 8px; border: 1px solid #30363d; max-width: 500px; margin-bottom: 35px;">
-    
-
-  </div>
 
   <hr style="border: 0; height: 1px; background-color: #30363d; margin: 35px 0;">
 
